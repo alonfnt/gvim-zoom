@@ -2,6 +2,8 @@
 
 Vim plugin to quickly change font size on GUI Vim.
 
+![screencapture](docs/showcase.gif)
+
 
 ## Installation
 You can use your favourite plugin manager
