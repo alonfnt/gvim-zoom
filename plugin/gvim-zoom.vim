@@ -47,7 +47,7 @@ command! FontIncrease call FontUp()
 command! FontDecrease call FontDown()
 
 if has("gui_running")
-    nmap <C-_> :FontDecrease<CR>
-    nmap <C-=> :FontIncrease<CR>
+    nmap - :FontDecrease<CR>
+    nmap + :FontIncrease<CR>
 endif
 
